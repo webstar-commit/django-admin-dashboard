@@ -45,8 +45,6 @@
 
 ## Screen Shots
 
-[![SB Admin Preview](https://github.com/gowthamand/django-crud-ajax-login-register-fileupload/blob/master/screen_shots/1.png)](https://github.com/gowthamand/django-crud-ajax-login-register-fileupload/)
-
 [![SB Admin Preview](https://github.com/gowthamand/django-crud-ajax-login-register-fileupload/blob/master/screen_shots/2.png)](https://github.com/gowthamand/django-crud-ajax-login-register-fileupload/)
 
 [![SB Admin Preview](https://github.com/gowthamand/django-crud-ajax-login-register-fileupload/blob/master/screen_shots/3.png)](https://github.com/gowthamand/django-crud-ajax-login-register-fileupload/)
