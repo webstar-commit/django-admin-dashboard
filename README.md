@@ -41,23 +41,21 @@
  10. python manage.py createsuperuser (enter username, email, password)
 
 ```
-# Dont't Forgot Give star and fork
-
 ## Screen Shots
 
-[![SB Admin Preview](https://github.com/gowthamand/django-crud-ajax-login-register-fileupload/blob/master/screen_shots/2.png)](https://github.com/gowthamand/django-crud-ajax-login-register-fileupload/)
+[![SB Admin Preview](https://github.com/webstar-commit/django-admin-dashboard/blob/master/screen_shots/2.png)](https://github.com/webstar-commit/django-admin-dashboard/)
 
-[![SB Admin Preview](https://github.com/gowthamand/django-crud-ajax-login-register-fileupload/blob/master/screen_shots/3.png)](https://github.com/gowthamand/django-crud-ajax-login-register-fileupload/)
+[![SB Admin Preview](https://github.com/webstar-commit/django-admin-dashboard/blob/master/screen_shots/3.png)](https://github.com/webstar-commit/django-admin-dashboard/)
 
-[![SB Admin Preview](https://github.com/gowthamand/django-crud-ajax-login-register-fileupload/blob/master/screen_shots/4.png)](https://github.com/gowthamand/django-crud-ajax-login-register-fileupload/)
+[![SB Admin Preview](https://github.com/webstar-commit/django-admin-dashboard/blob/master/screen_shots/4.png)](https://github.com/webstar-commit/django-admin-dashboard/)
 
-[![SB Admin Preview](https://github.com/gowthamand/django-crud-ajax-login-register-fileupload/blob/master/screen_shots/5.png)](https://github.com/gowthamand/django-crud-ajax-login-register-fileupload/)
+[![SB Admin Preview](https://github.com/webstar-commit/django-admin-dashboard/blob/master/screen_shots/5.png)](https://github.com/webstar-commit/django-admin-dashboard/)
 
-[![SB Admin Preview](https://github.com/gowthamand/django-crud-ajax-login-register-fileupload/blob/master/screen_shots/6.png)](https://github.com/gowthamand/django-crud-ajax-login-register-fileupload/)
+[![SB Admin Preview](https://github.com/webstar-commit/django-admin-dashboard/blob/master/screen_shots/6.png)](https://github.com/webstar-commit/django-admin-dashboard/)
 
-[![SB Admin Preview](https://github.com/gowthamand/django-crud-ajax-login-register-fileupload/blob/master/screen_shots/7.png)](https://github.com/gowthamand/django-crud-ajax-login-register-fileupload/)
+[![SB Admin Preview](https://github.com/webstar-commit/django-admin-dashboard/blob/master/screen_shots/7.png)](https://github.com/webstar-commit/django-admin-dashboard/)
 
-[![SB Admin Preview](https://github.com/gowthamand/django-crud-ajax-login-register-fileupload/blob/master/screen_shots/8.png)](https://github.com/gowthamand/django-crud-ajax-login-register-fileupload/)
+[![SB Admin Preview](https://github.com/webstar-commit/django-admin-dashboard/blob/master/screen_shots/8.png)](https://github.com/webstar-commit/django-admin-dashboard/)
 
 
 # Now Django Project Ready
