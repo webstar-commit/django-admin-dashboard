@@ -56,6 +56,3 @@
 [![SB Admin Preview](https://github.com/webstar-commit/django-admin-dashboard/blob/master/screen_shots/7.png)](https://github.com/webstar-commit/django-admin-dashboard/)
 
 [![SB Admin Preview](https://github.com/webstar-commit/django-admin-dashboard/blob/master/screen_shots/8.png)](https://github.com/webstar-commit/django-admin-dashboard/)
-
-
-# Now Django Project Ready
